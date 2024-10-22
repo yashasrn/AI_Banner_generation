@@ -1,0 +1,30 @@
+[
+  {
+    "theme": "Summer Sale",
+    "fontStyles": ["Arial", "Helvetica", "Comic Sans MS"],
+    "colors": ["#FFFFFF", "#FF0000"], 
+    "text": "Up to 50% off!",
+    "purpose": "advertisement",
+    "backgroundColor": "#FF0000"
+  },
+  {
+    "theme": "Winter Wonderland",
+    "fontStyles": ["Georgia", "Times New Roman"],
+    "colors": ["#FFFFFF", "#008000"],  
+    "text": "Warm up with our offers!",
+    "purpose": "promotion",
+    "backgroundColor": "#008000"
+  },
+  {
+    "theme": "modern",
+    "fontStyle": "Arial",
+    "colors": ["#FF0000", "#FFFFFF"],  
+    "backgroundColor": "#FFFFFF"
+  },
+  {
+    "theme": "classic",
+    "fontStyle": "Monotype Corsiva",
+    "colors": ["#000000", "#0000FF"], 
+    "backgroundColor": "#0000FF"
+  }
+]

@@ -1,0 +1,65 @@
+const themeData = {
+    diwali: [
+        'Diwali Special!',
+        'Light Up Your Diwali!',
+        'Celebrate Diwali with Joy!',
+        'Diwali Offers Just for You!',
+        'Sparkling Diwali Deals!',
+        'Festive Vibes this Diwali!',
+        'Diwali Mega Sale!',
+        'Illuminate Your Life this Diwali!',
+        'Diwali Discounts Await!',
+        'Joyous Diwali Savings!',
+    ],
+    christmas: [
+        'Merry Christmas!',
+        'Christmas Cheer!',
+        'Festive Christmas Specials!',
+        'Joyful Christmas Discounts!',
+        'Celebrate Christmas with Us!',
+    ],
+    holi: [
+        'Happy Holi!',
+        'Holi Festivities!',
+        'Colorful Holi Offers!',
+        'Celebrate with Colors this Holi!',
+        'Holi Celebrations Await!',
+    ],
+    eid: [
+        'Eid Mubarak!',
+        'Joyous Eid Wishes!',
+        'Celebrate Eid with Joy!',
+        'Eid Festive Offers!',
+        'Eid Specials Await!',
+    ],
+    health: [
+        'Health is Wealth!',
+        'Stay Fit and Healthy!',
+        'Wellness Awaits You!',
+        'Embrace a Healthy Lifestyle!',
+        'Invest in Your Health!',
+    ],
+    valentine: [
+        'Love is in the Air!',
+        'Valentines Day Specials!',
+        'Celebrate Love with Us!',
+        'Gifts for Your Sweetheart!',
+        'Romantic Offers Await!',
+    ],
+    halloween: [
+        'Spooktacular Halloween!',
+        'Halloween Frights and Delights!',
+        'Trick or Treat Specials!',
+        'Hauntingly Good Offers!',
+        'Celebrate with Spooky Savings!',
+    ],
+    thanksgiving: [
+        'Thanksgiving Blessings!',
+        'Feast Your Eyes on These Deals!',
+        'Thankful for Our Customers!',
+        'Harvest Special Offers!',
+        'Give Thanks and Save Big!',
+    ],
+};
+
+export default themeData;
